@@ -1,0 +1,151 @@
+
+
+/****** LINK *************/
+a {
+color:#AE293B;
+}
+
+blockquote {
+  margin-left: 40px;
+}
+
+blockquote .small, blockquote footer, blockquote small {
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+  padding: 5px 0;
+}
+
+
+/****** MENU *************/
+.navbar-default .navbar-brand {
+  color: #FFFFFF;
+  font-size: 34px;
+}
+
+/* 
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+color:white;
+}
+ */
+
+.navbar-default {
+  background-color: #AE293B;
+  border-color: none;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+  color: #FFF;
+}
+
+
+
+/****** HEADER AREA - PUT NEW BACKGROUND HERE *************/
+.intro-header {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #F8F8F8;
+  background: url(../img/sand2.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+
+/****** HEADER IMAGE *************/
+.header-image {
+margin-top: 20px;
+  display: inline-block !important;
+}
+
+
+/****** HEADER TITLE *************/
+
+.intro-message {
+color: #E57C16;
+padding-top: 2%;
+  padding-bottom: 5%;
+}
+
+
+/****** HEADER SOCIAL MEDIA BUTTONS *************/
+.homepage-media .fa-2x {
+  padding-right: 10px;
+  color: #F5DEB3;
+}
+
+
+/****** AUTHOR IMAGE *************/
+
+img.img-responsive.author-pix {
+  padding-top: 15%;
+}
+
+
+/****** BOOK IMAGE *************/
+
+.col-lg-5.col-sm-pull-6.col-sm-6.book-pix {
+  padding-top: 2%;
+}
+
+/****** BOOK ISNB *************/
+
+.isbn-block {
+padding-top: 20px;
+}
+
+
+/****** CONTACT AREA - PUT BACKGROUND PIX HERE*********/
+
+.banner {
+  padding: 100px 0;
+  color: #F8F8F8;
+  background: url(../img/sand2.jpg) no-repeat center center;
+  background-size: cover;
+}
+
+.banner-social-buttons .btn-default {
+  color: #000000;
+  background-color: #F5DEB3;
+  border-color: #F5DEB3;
+}
+
+.banner-social-buttons {
+  float: left;
+ 
+}
+
+.banner-social-buttons .fa-fw {
+  color: #AE293B;
+}
+
+.banner h2 {
+  font-size: 30px;
+}
+
+
+.creds, .creds a {
+color:white;
+}
+
+/****** EMAIL *************/
+
+.col-lg-6.creds.email a {
+  color: #FDFDFD;
+  text-decoration: underline;
+}
+
+/****** MEDIA FOR CELL PHONE*********/
+
+@media only screen and (max-width: 479px) {
+a.navbar-brand.topnav{
+
+  font-size: 20px !important;
+}
+}
+
+
+
