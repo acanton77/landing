@@ -59,6 +59,8 @@ color:white;
 .header-image {
 margin-top: 20px;
   display: inline-block !important;
+  border: rgba(0, 0, 0, 0.29);
+  border-style: solid;
 }
 
 
@@ -80,15 +82,23 @@ padding-top: 2%;
 
 /****** AUTHOR IMAGE *************/
 
-img.img-responsive.author-pix {
-  padding-top: 15%;
-}
 
+img.img-responsive.author-pix {
+  /* padding-top: 15%; */
+  border: rgba(0, 0, 0, 0.29);
+  border-style: solid;
+  margin-top: 20px;
+}
 
 /****** BOOK IMAGE *************/
 
 .col-lg-5.col-sm-pull-6.col-sm-6.book-pix {
   padding-top: 2%;
+}
+
+img.img-responsive.book-image {
+  border: rgba(0, 0, 0, 0.29);
+  border-style: solid;
 }
 
 /****** BOOK ISNB *************/
