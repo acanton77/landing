@@ -42,7 +42,10 @@ color:white;
   color: #FFF;
 }
 
-
+.navbar-default .navbar-brand:hover {
+    color: white;
+   
+}
 
 /****** HEADER AREA - PUT NEW BACKGROUND HERE *************/
 .intro-header {
