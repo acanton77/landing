@@ -37,3 +37,15 @@ footer {
     float: right;
     margin: 0;
 }
+
+.xgap-right {
+  margin-right: 10px; 
+}
+
+.extra-pad  { 
+padding-top: 50px;
+}
+
+.blog-title {
+text-decoration: underline;
+}
